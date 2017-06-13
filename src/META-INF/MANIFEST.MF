@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ldap.jar ldapbp.jar opencsv-3.9.jar
+Main-Class: com.rofs.Main
+
